@@ -1,5 +1,5 @@
 <!--
-*** Official Duino Coin README
+*** Official Duino Coin README_CZ
 *** by revoxhere, 2019-2021
 -->
 
